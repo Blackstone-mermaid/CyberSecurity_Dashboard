@@ -1,4 +1,4 @@
-# CyberWatch SOC Dashboard
+# CyberShield-Intelligence
 
 A Security Operations Center (SOC) style dashboard built with Streamlit for exploring, visualizing, and performing live machine learning inference on network traffic data from the UNSW-NB15 dataset. The application combines interactive threat analysis across four analytical pages with a fifth page that trains an XGBoost classifier on the training set and runs live attack prediction against the testing set.
 
@@ -104,8 +104,8 @@ CyberSecurity_Dashboard/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/Blackstone-mermaid/CyberSecurity_Dashboard.git
-cd CyberSecurity_Dashboard
+git clone https://github.com/Blackstone-mermaid/CyberShield-Intelligence.git
+cd CyberShield-Intelligence
 ```
 
 **2. (Optional) Create a virtual environment**
